@@ -1,4 +1,4 @@
-"# MKR_NB_1500_MQTT" 
-"# MKR_NB_1500_MQTT" 
+MKR NB 1500 MQTT
 
-hello
+Este codigo implementa el protocolo MQTT sobre un MKR NB 1500 usando narroband para el control de un relay.
+
